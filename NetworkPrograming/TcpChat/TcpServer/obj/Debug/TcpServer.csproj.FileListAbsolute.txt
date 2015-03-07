@@ -1,0 +1,6 @@
+C:\Users\ckyka\Desktop\Home2\TcpClient\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\ckyka\Desktop\Home2\TcpClient\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\ckyka\Desktop\Home2\TcpClient\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\ckyka\Desktop\Home2\TcpClient\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Desktop\Home2\TcpClient\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\ckyka\Desktop\Home2\TcpClient\TcpServer\obj\Debug\TcpServer.pdb
