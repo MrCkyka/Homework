@@ -1,0 +1,6 @@
+C:\Users\ckyka\Desktop\Home\Less1\home2\home2\bin\Debug\home2.exe.config
+C:\Users\ckyka\Desktop\Home\Less1\home2\home2\bin\Debug\home2.exe
+C:\Users\ckyka\Desktop\Home\Less1\home2\home2\bin\Debug\home2.pdb
+C:\Users\ckyka\Desktop\Home\Less1\home2\home2\obj\Debug\home2.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Desktop\Home\Less1\home2\home2\obj\Debug\home2.exe
+C:\Users\ckyka\Desktop\Home\Less1\home2\home2\obj\Debug\home2.pdb

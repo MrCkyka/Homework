@@ -1,0 +1,15 @@
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\bin\Debug\TextWindow.exe
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\bin\Debug\TextWindow.pdb
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\obj\Debug\TextWindow.Form1.resources
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\obj\Debug\TextWindow.Properties.Resources.resources
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\obj\Debug\TextWindow.csproj.GenerateResource.Cache
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\obj\Debug\TextWindow.exe
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\TextWindow\obj\Debug\TextWindow.pdb
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\bin\Debug\TextWindow.exe
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\bin\Debug\TextWindow.pdb
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\obj\Debug\TextWindow.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\obj\Debug\TextWindow.Form1.resources
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\obj\Debug\TextWindow.Properties.Resources.resources
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\obj\Debug\TextWindow.csproj.GenerateResource.Cache
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\obj\Debug\TextWindow.exe
+C:\Users\ckyka\Desktop\AppDomainSample\TextWindow\obj\Debug\TextWindow.pdb

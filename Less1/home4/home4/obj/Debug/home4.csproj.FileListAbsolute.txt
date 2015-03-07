@@ -1,0 +1,9 @@
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\bin\Debug\home4.exe.config
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\bin\Debug\home4.exe
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\bin\Debug\home4.pdb
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\obj\Debug\home4.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\obj\Debug\home4.Form1.resources
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\obj\Debug\home4.Properties.Resources.resources
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\obj\Debug\home4.csproj.GenerateResource.Cache
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\obj\Debug\home4.exe
+C:\Users\ckyka\Desktop\Home\Less1\home4\home4\obj\Debug\home4.pdb

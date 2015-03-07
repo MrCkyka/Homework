@@ -1,0 +1,7 @@
+Name = Bank 1, Money=10000 , Percent=30
+
+Changed! old Money=10000, now Money=9999
+
+Changed! old Name=Bank 1 , now Name=New Bank
+
+Changed! old Percent=30 , now Percent=99

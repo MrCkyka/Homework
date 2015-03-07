@@ -1,0 +1,16 @@
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.exe
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.pdb
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csprojResolveAssemblyReference.cache
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.Properties.Resources.resources
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csproj.GenerateResource.Cache
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
+C:\SHAG lessons\Системное программирование\Урок 1\sources\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.exe
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.pdb
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.Properties.Resources.resources
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csproj.GenerateResource.Cache
+C:\Users\ckyka\Desktop\Home\Less1\home5\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
+C:\Users\ckyka\Desktop\Home\Less1\home5\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb

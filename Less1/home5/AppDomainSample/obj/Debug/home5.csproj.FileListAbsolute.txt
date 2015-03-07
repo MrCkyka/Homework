@@ -1,0 +1,6 @@
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.exe
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.pdb
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.Properties.Resources.resources
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\home5.csproj.GenerateResource.Cache
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
+C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb
