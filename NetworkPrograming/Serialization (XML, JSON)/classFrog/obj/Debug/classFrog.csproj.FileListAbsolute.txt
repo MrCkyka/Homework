@@ -1,0 +1,8 @@
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\bin\Debug\classFrog.exe.config
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\bin\Debug\classFrog.exe
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\bin\Debug\classFrog.pdb
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\obj\Debug\classFrog.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\obj\Debug\classFrog.exe
+C:\Users\ckyka\Desktop\3\classFrog\classFrog\obj\Debug\classFrog.pdb
