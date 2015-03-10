@@ -1,0 +1,2 @@
+C:\Users\ckyka\Desktop\WCF (1)\WCF 1\Приложения к уроку 1\просто служба Windows\MySevice\MySevice\bin\Debug\MySevice.exe.config
+C:\Users\ckyka\Documents\Homework\WCF\2. Windows Service\MySevice\bin\Debug\MySevice.exe.config

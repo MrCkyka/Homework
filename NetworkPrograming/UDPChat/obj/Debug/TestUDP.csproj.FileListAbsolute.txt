@@ -1,0 +1,16 @@
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\bin\Debug\TestUDP.exe
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\bin\Debug\TestUDP.pdb
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.Form1.resources
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.Properties.Resources.resources
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.csproj.GenerateResource.Cache
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.exe
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.pdb
+C:\SHAG lessons\4 sem\4 sem\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.csprojResolveAssemblyReference.cache
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.exe
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.pdb
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\bin\Debug\TestUDP.exe
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\bin\Debug\TestUDP.pdb
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.csprojResolveAssemblyReference.cache
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.Form1.resources
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.Properties.Resources.resources
+C:\SHAG lessons\Сетевое программирование\Урок 1\Source\TestUDP\obj\Debug\TestUDP.csproj.GenerateResource.Cache

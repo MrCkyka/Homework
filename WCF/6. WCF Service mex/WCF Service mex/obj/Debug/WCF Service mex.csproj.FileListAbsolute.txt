@@ -1,0 +1,8 @@
+C:\Users\ckyka\Desktop\WCF Service mex\WCF Service mex\bin\Debug\WCF Service mex.exe.config
+C:\Users\ckyka\Desktop\WCF Service mex\WCF Service mex\bin\Debug\WCF Service mex.exe
+C:\Users\ckyka\Desktop\WCF Service mex\WCF Service mex\bin\Debug\WCF Service mex.pdb
+C:\Users\ckyka\Desktop\WCF Service mex\WCF Service mex\obj\Debug\WCF Service mex.exe
+C:\Users\ckyka\Desktop\WCF Service mex\WCF Service mex\obj\Debug\WCF Service mex.pdb
+C:\Users\ckyka\Desktop\6. WCF Service mex\WCF Service mex\bin\Debug\WCF Service mex.exe.config
+C:\Users\ckyka\Desktop\6. WCF Service mex\WCF Service mex\obj\Debug\WCF Service mex.exe
+C:\Users\ckyka\Desktop\6. WCF Service mex\WCF Service mex\obj\Debug\WCF Service mex.pdb

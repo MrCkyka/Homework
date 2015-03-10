@@ -7,3 +7,6 @@ C:\Users\ckyka\Desktop\3\ftp\ftp\obj\Debug\ftp.Properties.Resources.resources
 C:\Users\ckyka\Desktop\3\ftp\ftp\obj\Debug\ftp.csproj.GenerateResource.Cache
 C:\Users\ckyka\Desktop\3\ftp\ftp\obj\Debug\ftp.exe
 C:\Users\ckyka\Desktop\3\ftp\ftp\obj\Debug\ftp.pdb
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\bin\Debug\ftp.exe.config
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.exe
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.pdb

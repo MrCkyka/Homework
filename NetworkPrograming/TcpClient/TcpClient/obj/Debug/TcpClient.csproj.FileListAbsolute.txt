@@ -1,0 +1,8 @@
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\obj\Debug\TcpClient.Form1.resources
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.Cache
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\ckyka\Desktop\TcpClient\TcpClient\obj\Debug\TcpClient.pdb
