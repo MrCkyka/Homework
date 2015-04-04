@@ -14,3 +14,5 @@ C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynami
 C:\Users\ckyka\Desktop\AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csproj.GenerateResource.Cache
 C:\Users\ckyka\Desktop\Home\Less1\home5\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
 C:\Users\ckyka\Desktop\Home\Less1\home5\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb
+C:\Users\ckyka\Documents\Homework\SystemProgming\home5\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
+C:\Users\ckyka\Documents\Homework\SystemProgming\home5\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb

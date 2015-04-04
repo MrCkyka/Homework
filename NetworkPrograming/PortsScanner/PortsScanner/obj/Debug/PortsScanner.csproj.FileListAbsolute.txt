@@ -6,3 +6,11 @@ C:\Users\ckyka\Desktop\Home2\PortsScanner\PortsScanner\obj\Debug\PortsScanner.Pr
 C:\Users\ckyka\Desktop\Home2\PortsScanner\PortsScanner\obj\Debug\PortsScanner.csproj.GenerateResource.Cache
 C:\Users\ckyka\Desktop\Home2\PortsScanner\PortsScanner\obj\Debug\PortsScanner.exe
 C:\Users\ckyka\Desktop\Home2\PortsScanner\PortsScanner\obj\Debug\PortsScanner.pdb
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\bin\Debug\PortsScanner.exe.config
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\obj\Debug\PortsScanner.exe
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\obj\Debug\PortsScanner.pdb
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\bin\Debug\PortsScanner.exe
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\bin\Debug\PortsScanner.pdb
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\obj\Debug\PortsScanner.Form1.resources
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\obj\Debug\PortsScanner.Properties.Resources.resources
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\PortsScanner\PortsScanner\obj\Debug\PortsScanner.csproj.GenerateResource.Cache

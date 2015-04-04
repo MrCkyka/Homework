@@ -10,3 +10,9 @@ C:\Users\ckyka\Desktop\3\ftp\ftp\obj\Debug\ftp.pdb
 C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\bin\Debug\ftp.exe.config
 C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.exe
 C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.pdb
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\bin\Debug\ftp.exe
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\bin\Debug\ftp.pdb
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.csprojResolveAssemblyReference.cache
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.Form1.resources
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.Properties.Resources.resources
+C:\Users\ckyka\Documents\Homework\NetworkPrograming\FTPClient\ftp\obj\Debug\ftp.csproj.GenerateResource.Cache

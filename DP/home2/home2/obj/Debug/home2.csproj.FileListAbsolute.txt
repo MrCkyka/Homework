@@ -1,0 +1,11 @@
+C:\Users\ckyka\Desktop\DP\home2\home2\bin\Debug\home2.exe.config
+C:\Users\ckyka\Desktop\DP\home2\home2\bin\Debug\home2.exe
+C:\Users\ckyka\Desktop\DP\home2\home2\bin\Debug\home2.pdb
+C:\Users\ckyka\Desktop\DP\home2\home2\obj\Debug\home2.Form1.resources
+C:\Users\ckyka\Desktop\DP\home2\home2\obj\Debug\home2.Properties.Resources.resources
+C:\Users\ckyka\Desktop\DP\home2\home2\obj\Debug\home2.csproj.GenerateResource.Cache
+C:\Users\ckyka\Desktop\DP\home2\home2\obj\Debug\home2.exe
+C:\Users\ckyka\Desktop\DP\home2\home2\obj\Debug\home2.pdb
+C:\Users\ckyka\Dropbox\DP\home2\home2\bin\Debug\home2.exe.config
+C:\Users\ckyka\Dropbox\DP\home2\home2\obj\Debug\home2.exe
+C:\Users\ckyka\Dropbox\DP\home2\home2\obj\Debug\home2.pdb
